@@ -3,7 +3,7 @@ def ola(so):
     
     
 def main():
-    ola('ols')
+    ola('ooooo')
 
 if __name__ == '__main__':
     main()
